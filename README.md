@@ -215,16 +215,20 @@ A detailed walkthrough can be found [here](https://github.com/bencardoen/SubPrec
 ### Cite
 If you find this project useful, please cite
 ```bibtex
-@article {Cardoen2022.06.23.497346,
-	author = {Cardoen, Ben and Gao, Guang and Vandevoorde, Kurt R. and Alan, Parsa and Liu, William and Vogl, A. Wayne and Hamarneh, Ghassan and Nabi, Ivan R.},
-	title = {Automatic sub-precision membrane contact site detection identifies convoluted tubular riboMERCs},
-	elocation-id = {2022.06.23.497346},
-	year = {2022},
-	doi = {10.1101/2022.06.23.497346},
-	publisher = {Cold Spring Harbor Laboratory},
-	URL = {https://www.biorxiv.org/content/early/2022/06/26/2022.06.23.497346},
-	eprint = {https://www.biorxiv.org/content/early/2022/06/26/2022.06.23.497346.full.pdf},
-	journal = {bioRxiv}
+@article{10.1083/jcb.202206109,
+    author = {Cardoen, Ben and Vandevoorde, Kurt R. and Gao, Guang and Ortiz-Silva, Milene and Alan, Parsa and Liu, William and Tiliakou, Ellie and Vogl, A. Wayne and Hamarneh, Ghassan and Nabi, Ivan R.},
+    title = "{Membrane contact site detection (MCS-DETECT) reveals dual control of rough mitochondria–ER contacts}",
+    journal = {Journal of Cell Biology},
+    volume = {223},
+    number = {1},
+    pages = {e202206109},
+    year = {2023},
+    month = {11},
+    abstract = "{Identification and morphological analysis of mitochondria–ER contacts (MERCs) by fluorescent microscopy is limited by subpixel resolution interorganelle distances. Here, the membrane contact site (MCS) detection algorithm, MCS-DETECT, reconstructs subpixel resolution MERCs from 3D super-resolution image volumes. MCS-DETECT shows that elongated ribosome-studded riboMERCs, present in HT-1080 but not COS-7 cells, are morphologically distinct from smaller smooth contacts and larger contacts induced by mitochondria–ER linker expression in COS-7 cells. RiboMERC formation is associated with increased mitochondrial potential, reduced in Gp78 knockout HT-1080 cells and induced by Gp78 ubiquitin ligase activity in COS-7 and HeLa cells. Knockdown of riboMERC tether RRBP1 eliminates riboMERCs in both wild-type and Gp78 knockout HT-1080 cells. By MCS-DETECT, Gp78-dependent riboMERCs present complex tubular shapes that intercalate between and contact multiple mitochondria. MCS-DETECT of 3D whole-cell super-resolution image volumes, therefore, identifies novel dual control of tubular riboMERCs, whose formation is dependent on RRBP1 and size modulated by Gp78 E3 ubiquitin ligase activity.}",
+    issn = {0021-9525},
+    doi = {10.1083/jcb.202206109},
+    url = {https://doi.org/10.1083/jcb.202206109},
+    eprint = {https://rupress.org/jcb/article-pdf/223/1/e202206109/1920752/jcb\_202206109.pdf},
 }
 ```
 
